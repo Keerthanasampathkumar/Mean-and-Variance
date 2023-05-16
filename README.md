@@ -65,7 +65,7 @@ for i in range (M+1):
         if L[j]==i:
         
             c=c+1
-            
+     
     f.append(c)
     
     x.append(i)
